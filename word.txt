@@ -1,0 +1,259 @@
+concern@우려  
+replace@대체하다  
+unfamiliar@익숙하지 않은  
+individual@개인  
+experience@겪다  
+difficulty@어려움  
+access@접근  
+rely@의존하다  
+assistance@도움  
+consider@고려하다  
+reopen@재개하다  
+position@자리  
+attention@관심  
+resolution@해결  
+focus@집중하다  
+suddenly@갑자기  
+approach@다가가다  
+beat@뛰다  
+silently@조용히  
+glance@흘끗 보다  
+swiftly@재빠르게  
+kneel@무릎을 꿇다  
+announce@발표하다  
+combine@결합하다  
+revive@소생시키다  
+forehead@이마  
+successfully@성공적으로  
+breathe@숨쉬다  
+trap@덫  
+nonstop@끊임없는  
+remarkable@놀라운  
+stressful@스트레스를 주는  
+brag@자랑하다  
+pressure@압박  
+expectation@기대  
+live up to@부응하다  
+define@정의하다  
+achievement@업적  
+perfectionist@완벽주의자  
+dropout@중도 하차자  
+valuable@가치 있는  
+technique@기술  
+helplessness@무력함  
+predominantly@주로  
+resolve@해결하다  
+struggle@분투하다  
+negative@부정적인  
+vibration@진동  
+energize@활기를 주다  
+merely@단지  
+presence@존재  
+beneficial@유익한  
+psychic@정신적인  
+consciousness@의식  
+transfer@전달  
+latent@잠재적인  
+contribute@기여하다  
+survival@생존  
+species@종  
+bond@유대  
+evolutionary@진화의  
+perspective@관점  
+trigger@유발하다  
+attentive@주의 깊은  
+perceptual@지각의  
+stimuli@자극  
+acute@강렬한  
+specific@특정한  
+activate@활성화하다  
+adapt@적응하다  
+accessibility@접근성  
+disadvantage@불리함  
+inclusiveness@포괄성  
+widespread@널리 퍼진  
+disability@장애  
+dysarthric@구음 장애의  
+facilitate@용이하게 하다  
+enhance@향상시키다  
+capability@능력  
+prospect@전망  
+real-time@실시간  
+performance@수행  
+non-native@비원어민  
+recent@최근의  
+domain@영역  
+efficient@효율적인  
+sequester@격리하다  
+atmosphere@대기 (분위기)  
+comparison@비교  
+equivalent@동등한  
+fertilize@비옥하게 하다  
+nutrient@영양소  
+phytoplankton@식물성 플랑크톤  
+ecosystem@생태계  
+economist@경제학자  
+incentive@인센티브  
+preindustrial@산업화 이전의  
+restore@복원하다  
+restoration@복원  
+estimate@추정하다  
+service@서비스  
+solution@해결책  
+mathematician@수학자  
+physicist@물리학자  
+nature@속성  
+contest@대회  
+sponsor@후원하다  
+academy@아카데미  
+publish@출간하다  
+achievement@업적  
+translate@번역하다  
+relativity@상대성 이론  
+recognize@인정하다  
+symbol@상징  
+enlightenment@계몽주의  
+participation@참여  
+struggle@투쟁  
+organizational@조직의  
+viewpoint@관점  
+fascinating@매력적인  
+functional@기능적인  
+operation@운영  
+inevitably@필연적으로  
+biased@편향된  
+prejudiced@편견을 가진  
+perspective@관점  
+acquire@얻다  
+tunnel vision@터널 시야  
+conflict@갈등  
+mechanistic@기계적인  
+organic@유기적인  
+hierarchy@위계  
+procedure@절차  
+centralize@중앙 집중화하다  
+alternative@대안  
+reserve@마련하다  
+extensive@광범위한  
+occasional@수시의  
+convert@전환하다  
+automobile@자동차  
+accommodate@수용하다  
+nevertheless@그럼에도 불구하고  
+animus@반감, 미움  
+essential@필수적인  
+component@구성 요소  
+transporter@운송 수단  
+distribute@배포하다  
+vendor@상인  
+operate@운영하다  
+resident@거주자  
+grocery@식료품  
+composer@작곡가  
+misunderstand@오해하다  
+composition@작곡  
+initial@초기의  
+acceptance@수용  
+unfamiliarity@낯섦  
+depict@묘사하다  
+overshadow@가리다  
+original@독창적인  
+classic@고전의  
+lack@부족  
+musical@음악적인  
+medium@매체  
+invention@발명  
+absorb@흡수하다  
+particular@특정한  
+shape@형성하다  
+communicate@소통하다  
+bury@묻다  
+guide@안내하다  
+concept@개념  
+vital@필수적인  
+essentialism@본질주의  
+encourage@부추기다  
+present@존재하는  
+proverb@속담  
+essence@본질  
+fruitlessly@헛되이  
+hypothesis@가설  
+luminiferous@발광의  
+ether@에테르  
+substance@물질  
+theorize@이론화하다  
+experiment@실험  
+evidence@증거  
+potentially@잠재적으로  
+instrument@도구  
+achieve@달성하다  
+elite@엘리트  
+ordinary@평범한  
+criticize@비판하다  
+associate@연관시키다  
+sphere@영역  
+phenomenon@현상  
+reconstruct@재구성하다  
+symbolize@상징하다  
+hierarchical@계층적인  
+relatively@상대적으로  
+metric@측정 기준  
+interaction@상호작용  
+illusion@착각  
+cram@벼락 공부를 하다  
+strategy@전략  
+differentiate@구별하다  
+conscious@의식적인  
+short-term@단기적인  
+recall@기억하다  
+vanish@사라지다  
+long-term@장기적인  
+essential@필수적인  
+retest@재시험하다  
+material@자료  
+discovery@발견  
+neuron@뉴런  
+profoundly@깊이  
+fundamental@근본적인  
+capacity@능력  
+observation@관찰  
+newborn@신생아  
+inborn@선천적인  
+tendency@성향  
+imitation@모방  
+babble@옹알이하다  
+recording@녹음  
+pronounced@두드러진  
+pathway@경로  
+perceive@인지하다  
+external@외부의  
+vocal cord@성대  
+vibrate@진동하다  
+internal@내부의  
+conduct@전달하다  
+bone@뼈  
+stimulate@자극하다  
+frequency@주파수  
+emphasize@강조하다  
+directly@직접적으로  
+biologist@생물학자  
+distinguish@구별하다  
+similarity@유사성  
+analogous@상사  
+arise@생겨나다  
+evolutionary@진화의  
+independent@독립적인  
+homologous@상동의  
+descend@내려오다  
+ancestor@조상  
+modification@변형  
+forelimb@앞다리  
+architecture@구조  
+focus@집중하다  
+nonfunctional@비기능적인  
+property@특성  
+abundance@다량  
+dissolve@용해시키다  
+establish@확립하다  
+relatively@상대적으로  
+self-evident@자명한  
